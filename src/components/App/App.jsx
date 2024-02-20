@@ -1,9 +1,5 @@
 import React, { Component } from 'react';
-
-import { FeedbackOptions } from './Feedback/FeedbackOptions/FeedbackOptions';
-import { Statistics } from './Feedback/Statistics/Statistics';
-import { Section } from './Feedback/Section/Section';
-import { Notification } from './Feedback/Notification/Notification';
+import { FeedbackOptions, Notification, Section, Statistics } from 'components';
 
 export class App extends Component {
   static defaultProps = {

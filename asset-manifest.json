@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/goit-react-woolf-hw-04-feedback/static/css/main.bc0cce0f.css",
+    "main.js": "/goit-react-woolf-hw-04-feedback/static/js/main.27917cbb.js",
+    "static/media/anime.jpg": "/goit-react-woolf-hw-04-feedback/static/media/anime.42f36e4165cfe759e75d.jpg",
+    "index.html": "/goit-react-woolf-hw-04-feedback/index.html",
+    "main.bc0cce0f.css.map": "/goit-react-woolf-hw-04-feedback/static/css/main.bc0cce0f.css.map",
+    "main.27917cbb.js.map": "/goit-react-woolf-hw-04-feedback/static/js/main.27917cbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc0cce0f.css",
+    "static/js/main.27917cbb.js"
+  ]
+}
